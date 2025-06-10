@@ -1,0 +1,23 @@
+*{
+        color: aliceblue;
+        background-color: black;
+      }
+h1{
+    text-transform: uppercase;
+    font-family: serif;
+    text-align: center;
+    font-size: 40px;
+}
+
+      p{
+        font-family: serif;
+        text-align: center;
+        font-size: 15px;
+      }
+img {
+  border: 5px solid white;
+  display: block;
+  margin-top: 20px;
+  margin: auto;
+  width: 50%;
+}
