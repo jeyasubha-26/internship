@@ -6,7 +6,7 @@ ol {
 
 /* Write your CSS below, don't change the rules above. */
 p{
-  color: red;
+  color:rgb(152, 23, 23);
 }
 .note[value="2"]{
     font-size: 20px;
